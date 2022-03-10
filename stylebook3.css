@@ -1,0 +1,47 @@
+*{
+    font-family: monospace;
+    
+    
+}
+.box1{
+    border: 3px solid rgb(0, 0, 0);
+    background-color: black;
+    height: 30px;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+.box1 a:hover{
+    background: rgb(179, 0, 170);
+    
+}
+.head-photo{
+    margin: auto;
+    margin-left: 20%;  
+}
+.head-photo2{
+    margin: auto;
+    margin-left: 25%;
+}
+.clothing-section img{
+    
+    margin-right: 50%;
+    height: 530px;
+    width: 305px;
+    margin: 60px;
+}
+
+.header{
+    margin: 5%;
+    margin-left: 0%;
+    font-size: 30px;
+    text-align: center;
+}
+.wrap{
+    margin: 13%;
+    margin-top: 1.5%;
+    margin-bottom: 5%;
+    text-align: center;
+    font-size: 15px;
+}
+

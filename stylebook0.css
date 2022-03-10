@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    align-items: center;
+}
+.container{
+    background-color: #f0eeee;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    height: 200px;
+    width: 800px;
+    background:url(startpage.gif);
+    background-size: 800px 25px;
+    font-size: 180px;
+    font-family: monospace;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+}
