@@ -4,9 +4,9 @@
     
 }
 .box1{
-    border: 3px solid rgb(0, 0, 0);
+    border: 4px rgb(0, 0, 0);
     background-color: black;
-    height: 30px;
+    height: 29px;
     font-size: 20px;
     letter-spacing: 5px;
 }
@@ -17,12 +17,13 @@
 }
 .head-photo{
     margin: auto;
-    margin-left: 20%; 
+    margin-left: 28%; 
     margin-top: 1%; 
 }
 .head-photo2{
     margin: auto;
-    margin-left: 20%;
+    margin-left: 28%;
+    margin-top: 1%;
 }
 .clothing-section img{
     
