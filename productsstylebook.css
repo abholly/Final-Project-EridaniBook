@@ -1,12 +1,13 @@
 *{
-    font-size: monospace;
+    font-family: monospace;
+    -ms-flex-align: center;
 }
 .product-image{
     margin: 0%;
     margin-top: 1.5%;
     margin-bottom: 4%;
     height: 8px;
-    margin-left: 8%;
+    margin-left: 30%;
 
 }
 .box1{
@@ -21,7 +22,10 @@
     
 }
 .text{
+    margin-left: 30%;
     height: 800px;
-    margin-top: 1.5%;
-
+    font-size: larger;
+}
+.text a:hover{
+    background: rgb(179, 0, 170);
 }
