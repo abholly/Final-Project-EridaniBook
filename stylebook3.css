@@ -17,7 +17,8 @@
 }
 .head-photo{
     margin: auto;
-    margin-left: 20%;  
+    margin-left: 20%; 
+    margin-top: 1%; 
 }
 .head-photo2{
     margin: auto;
@@ -33,7 +34,6 @@
 
 .header{
     margin: 5%;
-    margin-left: 0%;
     font-size: 30px;
     text-align: center;
 }
