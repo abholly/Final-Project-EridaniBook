@@ -32,6 +32,9 @@
     width: 305px;
     margin: 60px;
 }
+.clothing-section a:hover{
+    background:rgb(179, 0, 170)
+}
 
 .header{
     margin: 5%;
